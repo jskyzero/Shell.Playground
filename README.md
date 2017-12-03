@@ -5,10 +5,11 @@
 
 Do Things More Efficient
 
-## Branchs
+## Languages
 
-+ powershell: Microsoft Windows Powershell
-+ master:     Linux default Bash
++ Bash
++ Powershell
++ Perl
 
 ## Reference
 
